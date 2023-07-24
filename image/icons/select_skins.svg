@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="41" viewBox="0 0 286 41">
+  <g id="Group_1660" data-name="Group 1660" transform="translate(-7197 -5869)">
+    <text id="Click_to_Change_Character_s_Outfit" data-name="Click to Change Character&apos;s Outfit" transform="translate(7235 5869)" fill="#fff" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="15">Click to Change </tspan><tspan x="0" y="34">Character&apos;s Outfit</tspan></text>
+    <g id="Group_149" data-name="Group 149" transform="translate(6208.917 5408.928)">
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="4.5" cy="4.5" r="4.5" transform="translate(1265.083 476)" fill="#fff"/>
+      <path id="Path_130" data-name="Path 130" d="M5.877,0,8.816,5.081l2.939,5.1H0l2.939-5.1Z" transform="translate(1210.709 486.827) rotate(-90)" fill="#fff"/>
+      <path id="Path_131" data-name="Path 131" d="M105.083,0H57.232" transform="translate(1163.5 480.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4"/>
+    </g>
+    <g id="Group_156" data-name="Group 156" transform="translate(6194 5539)">
+      <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(1003 332)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="15" cy="15" r="15" stroke="none"/>
+        <circle cx="15" cy="15" r="14.5" fill="none"/>
+      </g>
+      <text id="_3" data-name="3" transform="translate(1018 353)" fill="#fff" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="-4.512" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>
